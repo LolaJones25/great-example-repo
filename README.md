@@ -2,8 +2,8 @@
 
 ## markdown is super cool
 
->> this is a block quote
->> **super cool**
+> this is a block quote
+> **super cool**
 
 - first
 - second
@@ -14,6 +14,6 @@
 3. c
 
 ``` py
-def super cool():
+def super_cool():
   print("GitHub is cool")
 ```
