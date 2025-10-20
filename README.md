@@ -9,9 +9,11 @@
 - second
 - third
 
-1. a
-2. b
-3. c
+1. alpha
+2. beta
+3. gamma
+
+[example.md](/example.md)
 
 ``` py
 def super_cool():
